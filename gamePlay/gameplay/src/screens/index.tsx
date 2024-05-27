@@ -1,11 +1,11 @@
 import {View, Text} from 'react-native';
-export default function App () {
+export function SingnIn () {
     return(
       <View>
       <Text>HELLO PEOPLE</Text>
       </View>
 
-    )
+    );
 
 
 }
