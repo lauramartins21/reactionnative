@@ -1,11 +1,10 @@
-import {View, Text} from 'react-native';
+import { SingnIn } from './src/screens';
 export default function App () {
     return(
-      <View>
-      <Text>HELLO PEOPLE</Text>
-      </View>
+      <SingnIn />
+      
 
-    )
+    );
 
 
 }
